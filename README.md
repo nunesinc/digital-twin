@@ -84,12 +84,6 @@ Para instalar todas as dependências de uma vez, use:
 ```bash
 pip install -r requirements.txt
 
-
-## 🚀 Configuração Rápida
-
-### 1. **Clone o Repositório**
-```bash
-git clone https://github.com/seu-usuario/visao-computacional-industria.git
-cd visao-computacional-industria
+```
 
 
