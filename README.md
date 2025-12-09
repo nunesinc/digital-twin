@@ -92,3 +92,12 @@ python --version
 # Deve mostrar: Python 3.11.x
 
 ```
+## ⚙️ Desenvolvimento com IA
+
+💡 **Apoio com IA Generativa:** Utilizamos ChatGPT como ferramenta auxiliar para:
+- Compreensão de conceitos de Visão Computacional
+- Geração e otimização de trechos de código
+- Explicação de bibliotecas e frameworks
+- Documentação e comentários
+
+🔍 **Nota:** Os prompts não foram salvos, e todo o código foi revisado e validado pela equipe.
