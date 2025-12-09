@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/YOLO-Ultralytics-red?logo=yolo" alt="YOLO">
 <img src="https://img.shields.io/badge/Industry-4.0-orange?logo=industrial" alt="Indústria 4.0">
 
-*Projeto desenvolvido para monitoramento e análise de processos industriais utilizando visão computacional*
+*O sistema desenvolvido utiliza técnicas modernas de visão computacional para gerar coordenadas espaciais estruturadas de pessoas em movimento, criando uma base de dados que pode ser integrada diretamente a sistemas de Gêmeos Digitais em contextos industriais e logísticos. A solução combina detecção de objetos baseada em deep learning, rastreamento temporal, calibração geométrica e conversão de coordenadas pixel-para-métrica, formando uma arquitetura completa de percepção espacial.*
 
 </div>
 
@@ -85,5 +85,10 @@ Para instalar todas as dependências de uma vez, use:
 pip install -r requirements.txt
 
 ```
+###  🐍 Versão do Python
+Este projeto requer Python 3.11 ou superior. Verifique sua versão:
+```bash
+python --version
+# Deve mostrar: Python 3.11.x
 
-
+```
